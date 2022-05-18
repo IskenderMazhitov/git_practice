@@ -17,3 +17,4 @@ def developer3method(name: str = "Tariq", email: str = "axixtariq123@gmail.com",
     print(f"Name of developer this method is {name}")
     print(f"Email of developer this method is {email}")
     print(f"Cohort of developer this method is {cohort}")
+    print(f"Age of developer this method is {age}")
