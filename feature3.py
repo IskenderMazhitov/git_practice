@@ -1,4 +1,5 @@
-def developer3method():
+
+def feature3():
     print("FirstName: Jasurbek")
     print("Surname: Sadiev")
     print("Email: jasursadiev2002@gmail.com")
