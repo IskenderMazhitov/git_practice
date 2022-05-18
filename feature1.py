@@ -25,3 +25,5 @@ child = Child(parent.name, parent.age, "Mazhitov")
 print(child)
 
 print("hello2")
+
+print("My stack: Java Core, Spring, OOP, Python3, Django, FastAPI")
