@@ -33,6 +33,6 @@ def developer3method():
     print("Cohort: Computer Science")
     print("Age: 20")
     print("gender: male")
-    print("19.04.2002")
+    print("BirthDate: 19.04.2002")
     print("Computer Scientist")
     print("Tajikistan")
