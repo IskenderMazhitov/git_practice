@@ -27,13 +27,12 @@ def developer2method(name: str = "Tariq", surname: str = "Aziz", email: str = "a
 
 
 def developer3method():
-    print("FirstName: Jasurbek")
-    print("Surname: Sadiev")
-    print("Email: jasursadiev2002@gmail.com")
-    print("Cohort: Computer Science")
-    print("Age: 20")
-    print("gender: male")
-    print("BirthDate: 19.04.2002")
-    print("Specialty: Computer Scientist")
-    print("Country: Tajikistan")
-    print("Hello WOrld")
+    print("Jasurbek")
+    print("Sadiev")
+    print("jasursadiev2002@gmail.com")
+    print("Computer Science")
+    print(20)
+    print("male")
+    print("19.04.2002")
+    print("Computer Scientist")
+    print("Tajikistan")
