@@ -9,4 +9,5 @@ def developer1method(name: str = "Iskender", email: str = "isken.majitov1@gmail.
     print(f"Age of developer this method is {age}")
     print(f"Gender of developer this method is {gender}")
     print(f"birthdate of dev is {birthdate}")
+    print(f"speciality of dev is {speciality}")
 
