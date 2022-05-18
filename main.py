@@ -27,7 +27,7 @@ def developer2method(name: str = "Tariq", surname: str = "Aziz", email: str = "a
 
 
 def developer3method():
-    print("Jasurbek")
+    print("FirstName: Jasurbek")
     print("Sadiev")
     print("jasursadiev2002@gmail.com")
     print("Computer Science")
