@@ -31,3 +31,5 @@ print("My stack: Java Core, Spring, OOP, Python3, Django, FastAPI")
 print("Hello")
 
 print("Thanks for your lessons")
+
+print(f"My name is {parent.name}")
