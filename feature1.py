@@ -16,3 +16,7 @@ class Child(Parent):
     def __str__(this):
         super.__str__()
         return f"My surname is {this.surname}"
+
+parent = Parent("Iskender", 19)
+
+print(parent.name)
