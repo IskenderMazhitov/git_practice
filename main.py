@@ -36,3 +36,4 @@ def developer3method():
     print("BirthDate: 19.04.2002")
     print("Specialty: Computer Scientist")
     print("Country: Tajikistan")
+    print("Hello WOrld")
