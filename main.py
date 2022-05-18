@@ -24,4 +24,7 @@ def developer2method(name: str = "Tariq", surname" str = "Aziz" email: str = "ax
     print(f"speciality is {speciality}")
     print(f"birthdate is {birthdate}")
     
-    
+
+
+def developer3method():
+    print("Jasurbek")
