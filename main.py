@@ -21,5 +21,6 @@ def developer2method(name: str = "Tariq", email: str = "axixtariq123@gmail.com",
     print(f"Gender is {gender}")
     print(f"country is {country_of_origin}")
     print(f"speciality is {speciality}")
+    print(f"birthdate is {birthdate}")
     
     
