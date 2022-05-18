@@ -28,3 +28,4 @@ def developer2method(name: str = "Tariq", surname" str = "Aziz" email: str = "ax
 
 def developer3method():
     print("Jasurbek")
+    print("Sadiev")
