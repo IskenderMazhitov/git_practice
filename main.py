@@ -12,7 +12,7 @@ def developer1method(name: str = "Iskender", email: str = "isken.majitov1@gmail.
 
 
 
-def developer2method(name: str = "Tariq", surname" str = "Aziz" email: str = "axixtariq123@gmail.com", cohort = "Computer Science",
+def developer2method(name: str = "Tariq", surname: str = "Aziz", email: str = "axixtariq123@gmail.com", cohort = "Computer Science",
                      age = 20, gender = "male", birthdate = "04.04.2002", speciality = "coding", country_of_origin = "Pakistan"): #Tariq
     print(f"Name is {name}")
     print(f"surname is {surname}")
@@ -29,3 +29,4 @@ def developer2method(name: str = "Tariq", surname" str = "Aziz" email: str = "ax
 def developer3method():
     print("Jasurbek")
     print("Sadiev")
+    print("jasursadiev2002@gmail.com")
