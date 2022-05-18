@@ -23,3 +23,5 @@ print(parent.name)
 
 child = Child(parent.name, parent.age, "Mazhitov")
 print(child)
+
+print("hello2")
