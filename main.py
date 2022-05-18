@@ -31,3 +31,4 @@ def developer3method():
     print("Sadiev")
     print("jasursadiev2002@gmail.com")
     print("Computer Science")
+    print(20)
