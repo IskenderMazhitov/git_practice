@@ -32,7 +32,7 @@ def developer3method():
     print("Email: jasursadiev2002@gmail.com")
     print("Cohort: Computer Science")
     print("Age: 20")
-    print("male")
+    print("gender: male")
     print("19.04.2002")
     print("Computer Scientist")
     print("Tajikistan")
