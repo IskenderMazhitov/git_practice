@@ -6,3 +6,5 @@ def developer1method(name: str = "Iskender", email: str = "isken.majitov1@gmail.
     print(f"Name of developer this method is {name}")
     print(f"Email of developer this method is {email}")
     print(f"Cohort of developer this method is {cohort}")
+    print(f"Cohort of developer this method is {age}")
+    
