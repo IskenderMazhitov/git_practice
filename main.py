@@ -35,3 +35,4 @@ def developer3method():
     print("male")
     print("19.04.2002")
     print("Computer Scientist")
+    print("Tajikistan")
