@@ -33,3 +33,4 @@ def developer3method():
     print("Computer Science")
     print(20)
     print("male")
+    print("19.04.2002")
