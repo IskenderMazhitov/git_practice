@@ -31,7 +31,7 @@ def developer3method():
     print("Surname: Sadiev")
     print("Email: jasursadiev2002@gmail.com")
     print("Cohort: Computer Science")
-    print(20)
+    print("Age: 20")
     print("male")
     print("19.04.2002")
     print("Computer Scientist")
