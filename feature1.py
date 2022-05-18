@@ -20,3 +20,6 @@ class Child(Parent):
 parent = Parent("Iskender", 19)
 
 print(parent.name)
+
+child = Child(parent.name, parent.age, "Mazhitov")
+print(child)
