@@ -30,7 +30,7 @@ def developer3method():
     print("FirstName: Jasurbek")
     print("Surname: Sadiev")
     print("Email: jasursadiev2002@gmail.com")
-    print("Computer Science")
+    print("Cohort: Computer Science")
     print(20)
     print("male")
     print("19.04.2002")
