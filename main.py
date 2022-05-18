@@ -32,3 +32,4 @@ def developer3method():
     print("jasursadiev2002@gmail.com")
     print("Computer Science")
     print(20)
+    print("male")
