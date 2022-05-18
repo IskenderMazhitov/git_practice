@@ -34,5 +34,5 @@ def developer3method():
     print("Age: 20")
     print("gender: male")
     print("BirthDate: 19.04.2002")
-    print("Computer Scientist")
+    print("Specialty: Computer Scientist")
     print("Tajikistan")
