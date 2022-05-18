@@ -15,3 +15,4 @@ def developer1method(name: str = "Iskender", email: str = "isken.majitov1@gmail.
 def developer3method(name: str = "Tariq", email: str = "axixtariq123@gmail.com", cohort = "Computer Science",
                      age = 20, gender = "male", birthdate = "04.04.2002", speciality = "developer", country_of_origin = "Pakistan"): #Tariq
     print(f"Name of developer this method is {name}")
+    print(f"Email of developer this method is {email}")
